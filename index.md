@@ -2,20 +2,12 @@
 
 ### pct blk
 
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <div class="dropdown">
-    <button class="dropbtn">Dropdown
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
-    </div>
-  </div>
-</div>
+<select>
+    <option value="volvo" style="background-image:url(images/volvo.png);">Volvo</option>
+    <option value="saab"  style="background-image:url(images/saab.png);">Saab</option>
+    <option value="honda" style="background-image:url(images/honda.png);">Honda</option>
+    <option value="audi"  style="background-image:url(images/audi.png);">Audi</option>
+</select>
 
 ## Maps
 
