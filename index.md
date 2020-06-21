@@ -2,6 +2,12 @@
 
 ### pct blk
 
+<select>
+    <option value="volvo" style="background-image:url(images/volvo.png);">Volvo</option>
+    <option value="saab"  style="background-image:url(images/saab.png);">Saab</option>
+    <option value="honda" style="background-image:url(images/honda.png);">Honda</option>
+    <option value="audi"  style="background-image:url(images/audi.png);">Audi</option>
+</select>
 
 ## Maps
 
