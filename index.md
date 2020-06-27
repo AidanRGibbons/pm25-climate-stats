@@ -93,6 +93,7 @@ The following graphs were generated from a dataset of pm2.5 levels in zip codes 
 
 ### Pm2.5 hotspots over time
 
+A zip code is assigned the label "hotspot" if it has pm2.5 levels in the top percentile for the given year. 
 
 <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
   <div class='tableauPlaceholder' style='width: 1200px; height: 800px;'>
