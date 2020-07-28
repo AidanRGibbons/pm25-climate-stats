@@ -91,6 +91,22 @@ The following graphs were generated from a dataset of pm2.5 levels in zip codes 
 
 ## Maps
 
+### Pm2.5 over time
+
+The map below depicts Pm2.5 levels across the United States from 2000-2016. 
+
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+  <div class='tableauPlaceholder' style='width: 1200px; height: 800px;'>
+    <object class='tableauViz' width='1200' height='800' style='display:none;'>
+      <param name='host_url' value= 'https%3A%2F%2Fpublic.tableau.com%2F' /> 
+      <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+      <param name='name' value='uploadabledynamicpm25&#47;Sheet1' />
+      <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+      <param name='showAppBanner' value='false' />
+  </object>
+</div>
+
+
 ### Pm2.5 hotspots over time
 
 A zip code is assigned the label "hotspot" if it has pm2.5 levels in the top percentile for the given year. 
@@ -101,6 +117,19 @@ A zip code is assigned the label "hotspot" if it has pm2.5 levels in the top per
       <param name='host_url' value= 'https%3A%2F%2Fpublic.tableau.com%2F' /> 
       <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
       <param name='name' value='dynamichotspots&#47;Sheet1' />
+      <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+      <param name='showAppBanner' value='false' />
+  </object>
+</div>
+
+Below is the same map but with the shade of the hotspot corresponding to the poverty level in that zipcode.
+
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+  <div class='tableauPlaceholder' style='width: 1200px; height: 800px;'>
+    <object class='tableauViz' width='1200' height='800' style='display:none;'>
+      <param name='host_url' value= 'https%3A%2F%2Fpublic.tableau.com%2F' /> 
+      <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+      <param name='name' value='dynamichotspotspluscensus_pov&#47;Sheet1' />
       <param name='tabs' value='no' /><param name='toolbar' value='yes' />
       <param name='showAppBanner' value='false' />
   </object>
