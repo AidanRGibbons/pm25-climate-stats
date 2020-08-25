@@ -116,11 +116,12 @@ A zip code is assigned the label "hotspot" if it has pm2.5 levels in the top per
     <object class='tableauViz' width='1200' height='800' style='display:none;'>
       <param name='host_url' value= 'https%3A%2F%2Fpublic.tableau.com%2F' /> 
       <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
-      <param name='name' value='dynamichotspots&#47;Sheet1' />
+      <param name='name' value='dynamic_hotspots_nozeros&#47;dynamic' />
       <param name='tabs' value='no' /><param name='toolbar' value='yes' />
       <param name='showAppBanner' value='false' />
   </object>
 </div>
+
 
 Below is the same map but with the shade of the hotspot corresponding to the poverty level in that zipcode.
 
