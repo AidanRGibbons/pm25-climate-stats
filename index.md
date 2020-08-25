@@ -21,6 +21,8 @@ The following graphs were generated from a dataset of pm2.5 levels in zip codes 
   </object>
 </div>
 
+- (Very Low = 0.0% blk, Low = 0.0 - 0.11%, Medium = 0.12% - 8.75%, High = 8.76% - 30.14%, Very high < 30.14%)
+
 <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
   <div class='tableauPlaceholder' style='width: 1200px; height: 800px;'>
     <object class='tableauViz' width='1200' height='800' style='display:none;'>
